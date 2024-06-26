@@ -1,6 +1,6 @@
 # Summer Research at Yale (2022)
 
-This repository contains code and images from my summer internship at Yale.
+This repository contains code and images from my summer internship at Yale working in the Fan lab.
 
 ## Project Overview
 
